@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Patient>
+    <Name>Henrk</Name>
+    <Email>henrik@mail.com</Email>
+    <Password>test</Password>
+    <Age>29</Age>
+    <SocialSecurityNumber>hello</SocialSecurityNumber>
+  </Patient>
+  <Patient>
+    <Name>Henrk</Name>
+    <Email>henrik@mail.com</Email>
+    <Password>test</Password>
+    <Age>29</Age>
+    <SocialSecurityNumber>hello</SocialSecurityNumber>
+  </Patient>
+</ArrayOfPatient>
